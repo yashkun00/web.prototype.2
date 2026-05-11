@@ -1,6 +1,3 @@
 Web.prototype.3
 
-
-
-
-gfg
+the web should be of 1 page and in html with reacts 
